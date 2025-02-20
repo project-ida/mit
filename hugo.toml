@@ -3,10 +3,19 @@ languageCode = 'en-us'
 title = 'LENR at MIT'
 theme = 'puppet'
 
-
 [menu]
 [[menu.main]]
 identifier = "about"
 name = "About"
-url = "about"
+url = "/about/"
+weight = -1
+[[menu.main]]
+identifier = "team"
+name = "Team"
+url = "/team/"
+weight = -1
+[[menu.main]]
+identifier = "capabilities"
+name = "Capabilities"
+url = "/capabilities/"
 weight = -1
