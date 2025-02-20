@@ -28,7 +28,7 @@ brew install hugo
 For installing Hugo on **Windows** the simplest way is running 
 
 ```
-choco install hugo
+choco install hugo-extended
 ```
 
 
