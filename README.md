@@ -41,7 +41,7 @@ git clone https://github.com/project-ida/mit.git
 And then go into the directory and run this to get your dev server started.
 
 ```
-hugo server -D --renderToDisk
+hugo server -D
 ```
 
-> Note, the `-D` will render content that is marked as "Draft", the `--renderToDisk` will output the compiled website to the `public` folder. You don't have to worry about this public folder, but you can see what Hugo is actually generally by checking it out.
+> Note, the `-D` will render content that is marked as "Draft". If you're curious to see what Hugo is actually generating, then check out the `public` folder.
