@@ -3,6 +3,14 @@ languageCode = 'en-us'
 title = 'Example website'
 theme = 'puppet'
 
+[params]
+title = "Example website"
+author = "Ida"
+description = "Just a simple site"
+images=["img/hero.jpg"]
+img_home = "img/hero.jpg"
+img_404 = "img/404-bg.jpg"
+
 [menu]
 [[menu.main]]
 identifier = "about"
