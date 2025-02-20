@@ -10,7 +10,7 @@ What's great about Hugo is that we don't have to create these templates from scr
 ## Editing the website code
 
 ### Cloud
-Every time you edit a file on the `main` branch here on Github, an [Action](/.github/workflows/hugo.yml) runs behind the scenes to compile the website and deploy it to Github's servers which will point to [project-ida.github.io/mit](https://project-ida.github.io/website).
+Every time you edit a file on the `main` branch here on Github, an [Action](/.github/workflows/hugo.yml) runs behind the scenes to compile the website and deploy it to Github's servers which will point to [project-ida.github.io/website](https://project-ida.github.io/website).
 
 This approach is good for doing a small number of edits. If you're doing a lot of editing then it's better to work locally where you can edit and see the results of your changes in real time.
 
