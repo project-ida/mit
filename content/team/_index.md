@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "Team"
 description = "A nice tagline"
 date = "2025-02-19"
 +++
