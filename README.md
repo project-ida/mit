@@ -1,5 +1,5 @@
-# MIT
-Website showcasing the LENR work going on an MIT
+# Website
+An example website
 
 ## About the website code
 

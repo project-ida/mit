@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'LENR at MIT'
+title = 'Example website'
 theme = 'puppet'
 
 [menu]
